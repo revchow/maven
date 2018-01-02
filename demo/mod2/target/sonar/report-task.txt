@@ -1,0 +1,6 @@
+projectKey=company:mod2
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/company:mod2
+ceTaskId=AVzRjHMl_UB0PCQXMQqy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzRjHMl_UB0PCQXMQqy
